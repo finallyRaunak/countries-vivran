@@ -1,12 +1,10 @@
 <?php
 
 return [
-    "isoCode" => "IN",
-    "tld" => [ ".in" ], // country code top-level domain
-    "cca2" => "IN", // code ISO 3166-1 alpha-
-    "ccn3" => "356", // code ISO 3166-1 numeric
-    "cca3" => "IND", // code ISO 3166-1 alpha-3
-    "cioc" => "IND",
+    "iso_code" => "IN", // ISO Code ISO 3166-1 Alpha-2 code
+    "tld" => [ ".in" ], // Internet TLD
+    "cca3" => "IND", // ISO Code ISO 3166-1 Alpha-3 code
+    "ccn3" => "356", // ISO Code ISO 3166-1 Numeric code
     "common" => _("India"), // common name in english
     "official" => _("Republic of India"), // official name in english
     "native" => _(""), //  native name
@@ -23,8 +21,8 @@ return [
     //            'rtl' => true
     //        ],
     //    ],
-    "emoji" => _(""),
-    "emojiU" => _(""),
+    "emoji" => "",
+    "emojiU" => "",
     "latitude" => "20.00000000",
     "longitude" => "77.00000000",
     "timezones" => [
@@ -71,8 +69,8 @@ return [
                 "label" => "Pin code",
             ],
         ],
-        "date_format" => "d/M/yyyy",
-        "time_format" => "h:mm A",
+        "date_format" => "m-d-Y",
+        "time_format" => "m-d-Y g:i A",
         "dimensions_unit" => "cm",
         "weight_unit" => "kg",
     ],
