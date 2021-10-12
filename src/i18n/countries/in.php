@@ -3,8 +3,8 @@
 return [
     "iso_code" => "IN", // ISO Code ISO 3166-1 Alpha-2 code
     "tld" => [ ".in" ], // Internet TLD
-    "cca3" => "IND", // ISO Code ISO 3166-1 Alpha-3 code
-    "ccn3" => "356", // ISO Code ISO 3166-1 Numeric code
+    "iso_code_3l" => "IND", // ISO Code ISO 3166-1 Alpha-3 code
+    "iso_code_num" => "356", // ISO Code ISO 3166-1 Numeric code
     "common" => _("India"), // common name in english
     "official" => _("Republic of India"), // official name in english
     "native" => _(""), //  native name
@@ -13,6 +13,7 @@ return [
     "subregion" => _("Southern Asia"),
     "capital" => [ _("New Delhi") ],
     "currencies" => [ "INR" ],
+    "is_un_member"=>true,
     "languages" => [ "eng", "hin", "tam" ],
     //    'languages' => [
     //        '' => [
@@ -37,7 +38,6 @@ return [
     "landlocked" => false,
     "borders" => [ "PK, BD", "SL" ],
     "area" => _(3287590),
-    "address_format" => '{name}\n{address_1}\n{address_2}\n{city} {postcode}\n{state}, {country}',
     "ethnicity" => _("Indian"),
     "states" => [
         [
@@ -69,6 +69,7 @@ return [
                 "label" => "Pin code",
             ],
         ],
+        "address_format" => '{name}\n{address_1}\n{address_2}\n{city} {postcode}\n{state}, {country}',
         "date_format" => "m-d-Y",
         "time_format" => "m-d-Y g:i A",
         "dimensions_unit" => "cm",
