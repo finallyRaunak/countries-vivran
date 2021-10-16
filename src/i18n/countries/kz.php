@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '398',
     'name' => 'Kazakhstan',
     'official' => 'Republic of Kazakhstan',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Central Asia',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 7,
     'ethnicity' => 'Kazakhstani',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.kz',
@@ -42,8 +42,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

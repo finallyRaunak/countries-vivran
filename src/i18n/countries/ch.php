@@ -6,12 +6,12 @@ return [
     'iso_code_num' => '756',
     'name' => 'Switzerland',
     'official' => 'Swiss Confederation',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Western Europe',
-    "capital" => [ "Bern" ],
-    "currencies" => [ "CHF" ],
-    "languages" => [ "de", "fr", "it" ],
+    'capital' => ['Bern'],
+    'currencies' => ['CHF'],
+    'languages' => ['de', 'fr', 'it'],
     'dialing_code' => 41,
     'ethnicity' => 'Swiss',
     'states' => [
@@ -121,14 +121,14 @@ return [
         ],
     ],
     'additional_information' => [
-        "tld" => [ ".ch" ],
+        'tld' => ['.ch'],
         'is_independent' => true,
         'is_un_member' => true,
         'area' => 41284,
         'latitude' => '47.00000000',
         'longitude' => '8.00000000',
         'is_landlocked' => true,
-        "borders" => [ "AT", "FR", "IT", "LI", "DE" ]
+        'borders' => ['AT', 'FR', 'IT', 'LI', 'DE'],
     ],
     'locale' => [
         'address' => [
@@ -137,7 +137,7 @@ return [
                 'required' => false,
             ],
         ],
-        "address_format" => "{name}\n{address_1}\n{address_2}\n{postcode} {city}\n{country}",
+        'address_format' => "{name}\n{address_1}\n{address_2}\n{postcode} {city}\n{country}",
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

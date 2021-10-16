@@ -1,6 +1,6 @@
 <?php
 /**
- * Continents
+ * Continents.
  *
  * Returns an array of continents.
  *
@@ -8,7 +8,7 @@
  */
 return [
     'AF' => [
-        'name'      => 'Africa',
+        'name' => 'Africa',
         'countries' => [
             'AO',
             'BF',
@@ -71,7 +71,7 @@ return [
         ],
     ],
     'AN' => [
-        'name'      => 'Antarctica',
+        'name' => 'Antarctica',
         'countries' => [
             'AQ',
             'BV',
@@ -81,7 +81,7 @@ return [
         ],
     ],
     'AS' => [
-        'name'      => 'Asia',
+        'name' => 'Asia',
         'countries' => [
             'AE',
             'AF',
@@ -139,7 +139,7 @@ return [
         ],
     ],
     'EU' => [
-        'name'      => 'Europe',
+        'name' => 'Europe',
         'countries' => [
             'AD',
             'AL',
@@ -197,7 +197,7 @@ return [
         ],
     ],
     'NA' => [
-        'name'      => 'North America',
+        'name' => 'North America',
         'countries' => [
             'AG',
             'AI',
@@ -243,7 +243,7 @@ return [
         ],
     ],
     'OC' => [
-        'name'      => 'Oceania',
+        'name' => 'Oceania',
         'countries' => [
             'AS',
             'AU',
@@ -274,7 +274,7 @@ return [
         ],
     ],
     'SA' => [
-        'name'      => 'South America',
+        'name' => 'South America',
         'countries' => [
             'AR',
             'BO',

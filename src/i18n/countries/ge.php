@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '268',
     'name' => 'Georgia',
     'official' => 'Georgia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 995,
     'ethnicity' => 'Georgian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ge',
@@ -39,8 +39,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'yyyy-mm-dd',
         'date_format' => 'Y-m-d',
         'time_format_string' => '24H',

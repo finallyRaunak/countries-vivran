@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '276',
     'name' => 'Germany',
     'official' => 'Federal Republic of Germany',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Western Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 49,
     'ethnicity' => 'German',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.de',

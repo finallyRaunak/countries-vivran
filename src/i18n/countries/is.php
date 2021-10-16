@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '352',
     'name' => 'Iceland',
     'official' => 'Iceland',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 354,
     'ethnicity' => 'Icelander',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.is',
@@ -31,7 +31,7 @@ return [
         'latitude' => '65.00000000',
         'longitude' => '-18.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [

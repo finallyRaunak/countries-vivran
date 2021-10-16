@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '380',
     'name' => 'Italy',
     'official' => 'Italian Republic',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Southern Europe',
     'capital' => [

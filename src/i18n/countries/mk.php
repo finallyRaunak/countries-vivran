@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '807',
     'name' => 'North Macedonia',
     'official' => 'Republic of North Macedonia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Southeast Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 389,
     'ethnicity' => 'Macedonian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.mk',
@@ -40,10 +40,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 686,
     'ethnicity' => 'I-Kiribati',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ki',
@@ -32,13 +32,13 @@ return [
         'latitude' => '1.41666666',
         'longitude' => '173.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

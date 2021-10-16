@@ -12,13 +12,13 @@ return [
     'capital' => [
         '',
     ],
-    'currencies' => NULL,
+    'currencies' => null,
     'languages' => [
         'en',
     ],
     'dialing_code' => 672,
     'ethnicity' => 'Heard and McDonald Islander',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.hm',
@@ -30,18 +30,18 @@ return [
         'latitude' => '-53.10000000',
         'longitude' => '72.51666666',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
-        'dimension_unit' => NULL,
-        'weight_unit' => NULL,
-        'default_locale' => NULL,
+        'dimension_unit' => null,
+        'weight_unit' => null,
+        'default_locale' => null,
         'timezones' => [
             [
                 'tz_name' => 'Indian/Kerguelen',

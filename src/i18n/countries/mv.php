@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '462',
     'name' => 'Maldives',
     'official' => 'Republic of the Maldives',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Southern Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 960,
     'ethnicity' => 'Maldivan',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.mv',
@@ -31,18 +31,18 @@ return [
         'latitude' => '3.25000000',
         'longitude' => '73.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',
         'weight_unit' => 'kg',
-        'default_locale' => NULL,
+        'default_locale' => null,
         'timezones' => [
             [
                 'tz_name' => 'Indian/Maldives',

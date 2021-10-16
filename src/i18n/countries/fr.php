@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '250',
     'name' => 'France',
     'official' => 'French Republic',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Western Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 33,
     'ethnicity' => 'French',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.fr',

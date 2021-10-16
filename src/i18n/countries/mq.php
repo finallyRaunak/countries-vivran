@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '474',
     'name' => 'Martinique',
     'official' => 'Martinique',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'NA',
     'subregion' => 'Caribbean',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 596,
     'ethnicity' => 'Martinican',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.mq',
@@ -31,7 +31,7 @@ return [
         'latitude' => '14.66666700',
         'longitude' => '-61.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [
@@ -40,9 +40,9 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

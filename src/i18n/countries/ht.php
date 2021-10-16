@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '332',
     'name' => 'Haiti',
     'official' => 'Republic of Haiti',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'NA',
     'subregion' => 'Caribbean',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 509,
     'ethnicity' => 'Haitian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ht',
@@ -37,10 +37,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

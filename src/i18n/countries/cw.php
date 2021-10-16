@@ -22,7 +22,7 @@ return [
     ],
     'dialing_code' => 599,
     'ethnicity' => 'Curaçaoan',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.cw',
@@ -33,7 +33,7 @@ return [
         'latitude' => '12.11666700',
         'longitude' => '-68.93333300',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [
@@ -45,9 +45,9 @@ return [
                 'required' => false,
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

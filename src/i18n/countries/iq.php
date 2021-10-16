@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '368',
     'name' => 'Iraq',
     'official' => 'Republic of Iraq',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 964,
     'ethnicity' => 'Iraqi',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.iq',
@@ -42,10 +42,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

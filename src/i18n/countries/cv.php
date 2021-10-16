@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '132',
     'name' => 'Cape Verde',
     'official' => 'Republic of Cabo Verde',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Western Africa',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 238,
     'ethnicity' => 'Cape Verdian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.cv',
@@ -31,13 +31,13 @@ return [
         'latitude' => '16.00000000',
         'longitude' => '-24.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

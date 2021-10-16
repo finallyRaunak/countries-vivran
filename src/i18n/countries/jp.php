@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '392',
     'name' => 'Japan',
     'official' => 'Japan',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Eastern Asia',
     'capital' => [
@@ -221,7 +221,7 @@ return [
         'latitude' => '36.00000000',
         'longitude' => '138.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [

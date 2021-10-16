@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '818',
     'name' => 'Egypt',
     'official' => 'Arab Republic of Egypt',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Northern Africa',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 20,
     'ethnicity' => 'Egyptian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.eg',
@@ -40,10 +40,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

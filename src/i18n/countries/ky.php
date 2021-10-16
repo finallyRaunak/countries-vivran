@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 1345,
     'ethnicity' => 'Caymanian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ky',
@@ -31,13 +31,13 @@ return [
         'latitude' => '19.50000000',
         'longitude' => '-80.50000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

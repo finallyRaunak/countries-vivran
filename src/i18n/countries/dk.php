@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '208',
     'name' => 'Denmark',
     'official' => 'Kingdom of Denmark',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 45,
     'ethnicity' => 'Danish',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.dk',

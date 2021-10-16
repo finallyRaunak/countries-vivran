@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 356,
     'ethnicity' => 'Maltese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.mt',
@@ -32,7 +32,7 @@ return [
         'latitude' => '35.83333333',
         'longitude' => '14.58333333',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [
@@ -41,7 +41,7 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '348',
     'name' => 'Hungary',
     'official' => 'Hungary',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Central Europe',
     'capital' => [

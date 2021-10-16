@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '360',
     'name' => 'Indonesia',
     'official' => 'Republic of Indonesia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'South-Eastern Asia',
     'capital' => [
@@ -180,7 +180,7 @@ return [
                 'label' => 'Province',
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

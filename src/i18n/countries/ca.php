@@ -9,9 +9,9 @@ return [
     'native' => 'Canada',
     'continent' => 'NA',
     'subregion' => 'North America',
-    "capital" => [ "Ottawa" ],
-    "currencies" => [ "CAD" ],
-    "languages" => [ "en", "fr" ],
+    'capital' => ['Ottawa'],
+    'currencies' => ['CAD'],
+    'languages' => ['en', 'fr'],
     'dialing_code' => 1,
     'ethnicity' => 'Canadian',
     'states' => [
@@ -69,14 +69,14 @@ return [
         ],
     ],
     'additional_information' => [
-        "tld" => [ ".ca" ],
+        'tld' => ['.ca'],
         'is_independent' => true,
         'is_un_member' => true,
         'area' => 9984670,
         'latitude' => '60.00000000',
         'longitude' => '-95.00000000',
         'is_landlocked' => false,
-        "borders" => [ "US" ]
+        'borders' => ['US'],
     ],
     'locale' => [
         'address' => [
@@ -87,7 +87,7 @@ return [
                 'label' => 'Province',
             ],
         ],
-        "address_format" => "{name}\n{address_1}\n{address_2}\n{city} {state_code} {postcode}\n{country}",
+        'address_format' => "{name}\n{address_1}\n{address_2}\n{city} {state_code} {postcode}\n{country}",
         'date_format_string' => 'mm-dd-yyyy',
         'date_format' => 'm-d-Y',
         'time_format_string' => '24H',

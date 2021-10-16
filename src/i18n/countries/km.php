@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '174',
     'name' => 'Comoros',
     'official' => 'Union of the Comoros',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Eastern Africa',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 269,
     'ethnicity' => 'Comoran',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.km',
@@ -32,13 +32,13 @@ return [
         'latitude' => '-12.16666666',
         'longitude' => '44.25000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

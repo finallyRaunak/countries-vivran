@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '499',
     'name' => 'Montenegro',
     'official' => 'Montenegro',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Southeast Europe',
     'capital' => [
@@ -23,7 +23,7 @@ return [
     ],
     'dialing_code' => 382,
     'ethnicity' => 'Montenegrin',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.me',
@@ -43,8 +43,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'yyyy-mm-dd',
         'date_format' => 'Y-m-d',
         'time_format_string' => '24H',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '144',
     'name' => 'Sri Lanka',
     'official' => 'Democratic Socialist Republic of Sri Lanka',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Southern Asia',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 94,
     'ethnicity' => 'Sri Lankan',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.lk',
@@ -45,7 +45,7 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'dd-mm-yyyy',
         'date_format' => 'd-m-Y',
         'time_format_string' => '24H',

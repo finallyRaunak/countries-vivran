@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '428',
     'name' => 'Latvia',
     'official' => 'Republic of Latvia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 371,
     'ethnicity' => 'Latvian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.lv',
@@ -44,7 +44,7 @@ return [
                 'label' => 'Municipality',
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'yyyy.dd.mm',
         'date_format' => 'Y.d.m',
         'time_format_string' => '24H',

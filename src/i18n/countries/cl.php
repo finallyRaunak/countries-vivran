@@ -6,24 +6,24 @@ return [
     'iso_code_num' => '152',
     'name' => 'Chile',
     'official' => 'Republic of Chile',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'SA',
     'subregion' => 'South America',
     'capital' => [
-        'Santiago'
+        'Santiago',
     ],
     'currencies' => [
-        'CLP'
+        'CLP',
     ],
     'languages' => [
-        'es'
+        'es',
     ],
     'dialing_code' => 56,
     'ethnicity' => 'Chilean',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
-            '.cl'
+            '.cl',
         ],
         'is_independent' => true,
         'is_un_member' => true,
@@ -34,7 +34,7 @@ return [
         'borders' => [
             'AR',
             'BO',
-            'PE'
+            'PE',
         ],
     ],
     'locale' => [
@@ -50,8 +50,8 @@ return [
             ],
         ],
         'address_format' => '{name}\n{address_1}\n{address_2}\n{state}\n{postcode} {city}\n{country}',
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

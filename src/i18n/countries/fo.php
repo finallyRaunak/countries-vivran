@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '234',
     'name' => 'Faroe Islands',
     'official' => 'Faroe Islands',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 298,
     'ethnicity' => 'Faroese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.fo',
@@ -32,13 +32,13 @@ return [
         'latitude' => '62.00000000',
         'longitude' => '-7.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

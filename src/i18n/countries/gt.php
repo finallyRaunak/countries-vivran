@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '320',
     'name' => 'Guatemala',
     'official' => 'Republic of Guatemala',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'NA',
     'subregion' => 'Central America',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 502,
     'ethnicity' => 'Guatemalan',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.gt',
@@ -48,9 +48,9 @@ return [
                 'label' => 'Department',
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

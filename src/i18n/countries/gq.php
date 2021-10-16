@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '226',
     'name' => 'Equatorial Guinea',
     'official' => 'Republic of Equatorial Guinea',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Middle Africa',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 240,
     'ethnicity' => 'Equatorial Guinean',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.gq',
@@ -38,10 +38,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

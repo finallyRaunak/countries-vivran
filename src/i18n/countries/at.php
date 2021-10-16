@@ -6,24 +6,24 @@ return [
     'iso_code_num' => '040',
     'name' => 'Austria',
     'official' => 'Republic of Austria',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Central Europe',
-    "capital" => [ "Vienna" ],
-    "currencies" => [ "EUR" ],
-    "languages" => [ "de" ],
+    'capital' => ['Vienna'],
+    'currencies' => ['EUR'],
+    'languages' => ['de'],
     'dialing_code' => 43,
     'ethnicity' => 'Austrian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
-        "tld" => [ ".at" ],
+        'tld' => ['.at'],
         'is_independent' => true,
         'is_un_member' => true,
         'area' => 83871,
         'latitude' => '47.33333333',
         'longitude' => '13.33333333',
         'is_landlocked' => true,
-        "borders" => [ "CZ", "DE", "HU", "IT", "LI", "SK", "SI", "CH" ]
+        'borders' => ['CZ', 'DE', 'HU', 'IT', 'LI', 'SK', 'SI', 'CH'],
     ],
     'locale' => [
         'address' => [
@@ -53,5 +53,5 @@ return [
     'financial_institution_format' => [
     ],
     'national_identification_document' => [
-    ]
+    ],
 ];

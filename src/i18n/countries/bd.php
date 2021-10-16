@@ -6,12 +6,12 @@ return [
     'iso_code_num' => '050',
     'name' => 'Bangladesh',
     'official' => 'People\'s Republic of Bangladesh',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Southern Asia',
-    "capital" => [ "Dhaka" ],
-    "currencies" => [ "BDT" ],
-    "languages" => [ "bn" ],
+    'capital' => ['Dhaka'],
+    'currencies' => ['BDT'],
+    'languages' => ['bn'],
     'dialing_code' => 880,
     'ethnicity' => 'Bangladeshi',
     'states' => [
@@ -273,14 +273,14 @@ return [
         ],
     ],
     'additional_information' => [
-        "tld" => [ ".bd" ],
+        'tld' => ['.bd'],
         'is_independent' => true,
         'is_un_member' => true,
         'area' => 147570,
         'latitude' => '24.00000000',
         'longitude' => '90.00000000',
         'is_landlocked' => false,
-        "borders" => [ "MM", "IN" ]
+        'borders' => ['MM', 'IN'],
     ],
     'locale' => [
         'address' => [
@@ -291,7 +291,7 @@ return [
                 'label' => 'District',
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

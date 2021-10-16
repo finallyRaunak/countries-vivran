@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '246',
     'name' => 'Finland',
     'official' => 'Republic of Finland',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 358,
     'ethnicity' => 'Finnish',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.fi',

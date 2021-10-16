@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '376',
     'name' => 'Israel',
     'official' => 'State of Israel',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 972,
     'ethnicity' => 'Israeli',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.il',
@@ -47,7 +47,7 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

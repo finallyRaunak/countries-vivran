@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '231',
     'name' => 'Ethiopia',
     'official' => 'Federal Democratic Republic of Ethiopia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Eastern Africa',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 251,
     'ethnicity' => 'Ethiopian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.et',
@@ -41,8 +41,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '438',
     'name' => 'Liechtenstein',
     'official' => 'Principality of Liechtenstein',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Western Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 423,
     'ethnicity' => 'Liechtensteiner',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.li',
@@ -44,8 +44,8 @@ return [
             ],
         ],
         'address_format' => '{name}\n{address_1}\n{address_2}\n{postcode} {city}\n{country}',
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

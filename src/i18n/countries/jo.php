@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '400',
     'name' => 'Jordan',
     'official' => 'Hashemite Kingdom of Jordan',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 962,
     'ethnicity' => 'Jordanian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.jo',
@@ -41,10 +41,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

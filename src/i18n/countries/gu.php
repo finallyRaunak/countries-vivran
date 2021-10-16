@@ -22,7 +22,7 @@ return [
     ],
     'dialing_code' => 1671,
     'ethnicity' => 'Guamanian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.gu',
@@ -33,13 +33,13 @@ return [
         'latitude' => '13.46666666',
         'longitude' => '144.78333333',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

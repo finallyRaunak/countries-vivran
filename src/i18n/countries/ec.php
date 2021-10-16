@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '218',
     'name' => 'Ecuador',
     'official' => 'Republic of Ecuador',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'SA',
     'subregion' => 'South America',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 593,
     'ethnicity' => 'Ecuadorean',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ec',
@@ -37,10 +37,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

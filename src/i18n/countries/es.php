@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '724',
     'name' => 'Spain',
     'official' => 'Kingdom of Spain',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Southern Europe',
     'capital' => [

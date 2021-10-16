@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '156',
     'name' => 'China',
     'official' => 'People\'s Republic of China',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Eastern Asia',
     'capital' => [

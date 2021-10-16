@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '116',
     'name' => 'Cambodia',
     'official' => 'Kingdom of Cambodia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'South-Eastern Asia',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 855,
     'ethnicity' => 'Cambodian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.kh',
@@ -39,8 +39,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

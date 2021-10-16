@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 1876,
     'ethnicity' => 'Jamaican',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.jm',
@@ -31,7 +31,7 @@ return [
         'latitude' => '18.25000000',
         'longitude' => '-77.50000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [
@@ -48,8 +48,8 @@ return [
             ],
         ],
         'address_format' => '{name}\n{address_1}\n{address_2}\n{city}\n{state}\n{postcode_upper}\n{country}',
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '492',
     'name' => 'Monaco',
     'official' => 'Principality of Monaco',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Western Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 377,
     'ethnicity' => 'Monegasque',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.mc',
@@ -36,10 +36,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

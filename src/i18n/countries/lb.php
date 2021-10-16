@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '422',
     'name' => 'Lebanon',
     'official' => 'Lebanese Republic',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 961,
     'ethnicity' => 'Lebanese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.lb',
@@ -44,9 +44,9 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

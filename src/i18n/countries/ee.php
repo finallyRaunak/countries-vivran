@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '233',
     'name' => 'Estonia',
     'official' => 'Republic of Estonia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 372,
     'ethnicity' => 'Estonian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ee',

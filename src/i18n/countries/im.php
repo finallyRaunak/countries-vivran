@@ -22,7 +22,7 @@ return [
     ],
     'dialing_code' => 44,
     'ethnicity' => 'Manx',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.im',
@@ -33,7 +33,7 @@ return [
         'latitude' => '54.25000000',
         'longitude' => '-4.50000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [
@@ -42,9 +42,9 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i A',
         'dimension_unit' => 'cm',

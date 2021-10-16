@@ -6,25 +6,25 @@ return [
     'iso_code_num' => '203',
     'name' => 'Czechia',
     'official' => 'Czech Republic',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Central Europe',
     'capital' => [
-        'Prague'
+        'Prague',
     ],
     'currencies' => [
-        'CZK'
+        'CZK',
     ],
     'languages' => [
         'cs',
-        'sk'
+        'sk',
     ],
     'dialing_code' => 420,
     'ethnicity' => 'Czech',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
-            '.cz'
+            '.cz',
         ],
         'is_independent' => true,
         'is_un_member' => true,
@@ -36,7 +36,7 @@ return [
             'AT',
             'DE',
             'PL',
-            'SK'
+            'SK',
         ],
     ],
     'locale' => [
