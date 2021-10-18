@@ -106,7 +106,7 @@ return [
         'date_format_string' => 'yyyy-mm-dd',
         'date_format' => 'Y-m-d',
         'time_format_string' => '24H',
-        'time_format' => 'H:i A',
+        'time_format' => H:i,
         'dimension_unit' => 'cm',
         'weight_unit' => 'kg',
         'default_locale' => 'ne_NP',

@@ -31,7 +31,7 @@ return [
         'date_format_string' => null,
         'date_format' => null,
         'time_format_string' => '24H',
-        'time_format' => 'H:i A',
+        'time_format' => 'H:i',
         'dimension_unit' => 'cm',
         'weight_unit' => 'kg',
         'default_locale' => 'nl_AW',

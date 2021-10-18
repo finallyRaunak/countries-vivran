@@ -38,7 +38,7 @@ return [
         'date_format_string' => null,
         'date_format' => null,
         'time_format_string' => '24H',
-        'time_format' => 'H:i A',
+        'time_format' => 'H:i',
         'dimension_unit' => null,
         'weight_unit' => null,
         'default_locale' => null,

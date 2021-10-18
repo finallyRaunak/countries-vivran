@@ -233,7 +233,7 @@ return [
         'date_format_string' => 'mm/dd/yyyy',
         'date_format' => 'm/d/Y',
         'time_format_string' => '24H',
-        'time_format' => 'H:i A',
+        'time_format' => 'H:i',
         'dimension_unit' => 'cm',
         'weight_unit' => 'kg',
         'default_locale' => 'ja_JP',
