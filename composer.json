@@ -1,7 +1,7 @@
 {
     "name": "finallyRaunak/countries-vivran",
     "description": "Country details composer package",
-    "homepage": "https://www.webhat.in/article/author/raunak-gupta/",
+    "homepage": "https://github.com/finallyRaunak/countries-vivran/",
     "readme": "./README.md",
     "type": "library",
     "keywords": [
@@ -27,9 +27,16 @@
         "psr-4": {
             "CountriesVivran\\": "src/"
         },
-        "files": ["src/constants.php"]
+        "files": [
+            "src/constants.php"
+        ]
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "2.19.x-dev"
+    },
+    "support": {
+        "issues": "https://github.com/finallyRaunak/countries-vivran/issues",
+        "forum": "http://stackoverflow.com/questions/tagged/countries-vivran",
+        "docs": "https://github.com/finallyRaunak/countries-vivran/blob/main/doc/README.md"
     }
 }
