@@ -39,8 +39,8 @@ return [
     'locale' => [
         'address' => NULL,
         'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'date_format_string' => 'mm-dd-yyyy',
+        'date_format' => 'm-d-Y',
         'time_format_string' => '12H',
         'time_format' => 'h:i A',
         'dimension_unit' => 'cm',
