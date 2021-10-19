@@ -48,7 +48,7 @@ return [
         'date_format_string' => 'yyyy.dd.mm',
         'date_format' => 'Y.d.m',
         'time_format_string' => '24H',
-        'time_format' => H:i,
+        'time_format' => 'H:i',
         'dimension_unit' => 'cm',
         'weight_unit' => 'kg',
         'default_locale' => 'lv_LV',

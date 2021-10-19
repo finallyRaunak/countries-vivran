@@ -99,7 +99,7 @@ return [
         'date_format_string' => null,
         'date_format' => null,
         'time_format_string' => '24H',
-        'time_format' => H:i,
+        'time_format' => 'H:i',
         'dimension_unit' => 'cm',
         'weight_unit' => 'kg',
         'default_locale' => 'pt_MZ',
