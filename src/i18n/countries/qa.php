@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '634',
     'name' => 'Qatar',
     'official' => 'State of Qatar',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 974,
     'ethnicity' => 'Qatari',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.qa',
@@ -37,10 +37,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

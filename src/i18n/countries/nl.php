@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '528',
     'name' => 'Netherlands',
     'official' => 'Kingdom of the Netherlands',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Western Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 31,
     'ethnicity' => 'Dutch',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.nl',

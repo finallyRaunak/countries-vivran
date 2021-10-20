@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '703',
     'name' => 'Slovakia',
     'official' => 'Slovak Republic',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Central Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 421,
     'ethnicity' => 'Slovak',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.sk',

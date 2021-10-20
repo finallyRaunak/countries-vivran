@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '148',
     'name' => 'Chad',
     'official' => 'Republic of Chad',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Middle Africa',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 235,
     'ethnicity' => 'Chadian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.td',
@@ -42,10 +42,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

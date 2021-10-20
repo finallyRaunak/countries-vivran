@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '616',
     'name' => 'Poland',
     'official' => 'Republic of Poland',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Central Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 48,
     'ethnicity' => 'Polish',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.pl',

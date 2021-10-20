@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '558',
     'name' => 'Nicaragua',
     'official' => 'Republic of Nicaragua',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'NA',
     'subregion' => 'Central America',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 505,
     'ethnicity' => 'Nicaraguan',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ni',
@@ -37,8 +37,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'mm-dd-yyyy',
         'date_format' => 'm-d-Y',
         'time_format_string' => '12H',

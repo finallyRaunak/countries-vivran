@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '620',
     'name' => 'Portugal',
     'official' => 'Portuguese Republic',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Southern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 351,
     'ethnicity' => 'Portuguese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.pt',

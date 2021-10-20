@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 290,
     'ethnicity' => 'Saint Helenian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.sh',
@@ -33,13 +33,13 @@ return [
         'latitude' => '-15.95000000',
         'longitude' => '-5.70000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

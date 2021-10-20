@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '792',
     'name' => 'Turkey',
     'official' => 'Republic of Turkey',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [

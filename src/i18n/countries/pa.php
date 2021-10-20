@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '591',
     'name' => 'Panama',
     'official' => 'Republic of Panama',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'NA',
     'subregion' => 'Central America',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 507,
     'ethnicity' => 'Panamanian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.pa',
@@ -38,10 +38,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

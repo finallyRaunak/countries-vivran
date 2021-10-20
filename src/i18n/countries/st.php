@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '678',
     'name' => 'São Tomé and Príncipe',
     'official' => 'Democratic Republic of São Tomé and Príncipe',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Middle Africa',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 239,
     'ethnicity' => 'Sao Tomean',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.st',
@@ -31,7 +31,7 @@ return [
         'latitude' => '1.00000000',
         'longitude' => '7.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [
@@ -43,9 +43,9 @@ return [
                 'label' => 'District',
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '744',
     'name' => 'Svalbard and Jan Mayen',
     'official' => 'Svalbard og Jan Mayen',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 47,
     'ethnicity' => 'Norwegian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.sj',
@@ -31,13 +31,13 @@ return [
         'latitude' => '78.00000000',
         'longitude' => '20.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

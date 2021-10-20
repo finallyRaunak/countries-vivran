@@ -97,7 +97,7 @@ return [
         'latitude' => '-41.00000000',
         'longitude' => '174.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [

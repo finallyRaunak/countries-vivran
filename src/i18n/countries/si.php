@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '705',
     'name' => 'Slovenia',
     'official' => 'Republic of Slovenia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Central Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 386,
     'ethnicity' => 'Slovene',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.si',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '643',
     'name' => 'Russia',
     'official' => 'Russian Federation',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Eastern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 7,
     'ethnicity' => 'Russian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ru',
@@ -51,8 +51,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

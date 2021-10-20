@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '626',
     'name' => 'Timor-Leste',
     'official' => 'Democratic Republic of Timor-Leste',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'OC',
     'subregion' => 'South-Eastern Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 670,
     'ethnicity' => 'East Timorese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.tl',
@@ -36,10 +36,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

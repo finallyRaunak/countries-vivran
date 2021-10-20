@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 685,
     'ethnicity' => 'Samoan',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ws',
@@ -32,7 +32,7 @@ return [
         'latitude' => '-13.58333333',
         'longitude' => '-172.33333333',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
         'address' => [
@@ -41,9 +41,9 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

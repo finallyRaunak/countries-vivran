@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '158',
     'name' => 'Taiwan',
     'official' => 'Republic of China (Taiwan)',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Eastern Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 886,
     'ethnicity' => 'Taiwanese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.tw',
@@ -33,10 +33,10 @@ return [
         'latitude' => '23.50000000',
         'longitude' => '121.00000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
+        'address' => null,
         'address_format' => '{last_name} {first_name}\n{address_1}\n{address_2}\n{state}, {city} {postcode}\n{country}',
         'date_format_string' => 'mm-dd-yyyy',
         'date_format' => 'm-d-Y',

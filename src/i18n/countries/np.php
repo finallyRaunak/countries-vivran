@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '524',
     'name' => 'Nepal',
     'official' => 'Federal Democratic Republic of Nepal',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Southern Asia',
     'capital' => [
@@ -102,7 +102,7 @@ return [
                 'required' => false,
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'yyyy-mm-dd',
         'date_format' => 'Y-m-d',
         'time_format_string' => '24H',

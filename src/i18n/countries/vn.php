@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '704',
     'name' => 'Vietnam',
     'official' => 'Socialist Republic of Vietnam',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'South-Eastern Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 84,
     'ethnicity' => 'Vietnamese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.vn',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '604',
     'name' => 'Peru',
     'official' => 'Republic of Peru',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'SA',
     'subregion' => 'South America',
     'capital' => [
@@ -145,10 +145,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

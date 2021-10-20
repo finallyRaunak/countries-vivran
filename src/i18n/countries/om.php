@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '512',
     'name' => 'Oman',
     'official' => 'Sultanate of Oman',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AS',
     'subregion' => 'Western Asia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 968,
     'ethnicity' => 'Omani',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.om',
@@ -38,8 +38,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '804',
     'name' => 'Ukraine',
     'official' => 'Ukraine',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Eastern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 380,
     'ethnicity' => 'Ukrainian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.ua',
@@ -43,8 +43,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

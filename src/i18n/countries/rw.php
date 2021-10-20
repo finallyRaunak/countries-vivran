@@ -22,7 +22,7 @@ return [
     ],
     'dialing_code' => 250,
     'ethnicity' => 'Rwandan',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.rw',
@@ -41,8 +41,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

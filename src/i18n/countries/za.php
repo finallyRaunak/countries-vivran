@@ -94,7 +94,7 @@ return [
                 'label' => 'Province',
             ],
         ],
-        'address_format' => NULL,
+        'address_format' => null,
         'date_format_string' => 'mm-dd-yyyy',
         'date_format' => 'm-d-Y',
         'time_format_string' => '24H',

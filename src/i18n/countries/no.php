@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '578',
     'name' => 'Norway',
     'official' => 'Kingdom of Norway',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -22,7 +22,7 @@ return [
     ],
     'dialing_code' => 47,
     'ethnicity' => 'Norwegian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.no',

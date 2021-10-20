@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '876',
     'name' => 'Wallis and Futuna',
     'official' => 'Territory of the Wallis and Futuna Islands',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'OC',
     'subregion' => 'Polynesia',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 681,
     'ethnicity' => 'Wallis and Futuna Islander',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.wf',
@@ -31,13 +31,13 @@ return [
         'latitude' => '-13.30000000',
         'longitude' => '-176.20000000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

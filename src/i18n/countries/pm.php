@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '666',
     'name' => 'Saint Pierre and Miquelon',
     'official' => 'Saint Pierre and Miquelon',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'NA',
     'subregion' => 'North America',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 508,
     'ethnicity' => 'Saint-Pierrais, Miquelonnais',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.pm',
@@ -31,13 +31,13 @@ return [
         'latitude' => '46.83333333',
         'longitude' => '-56.33333333',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

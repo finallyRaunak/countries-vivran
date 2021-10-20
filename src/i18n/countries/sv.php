@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '222',
     'name' => 'El Salvador',
     'official' => 'Republic of El Salvador',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'NA',
     'subregion' => 'Central America',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 503,
     'ethnicity' => 'Salvadoran',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.sv',
@@ -37,10 +37,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '12H',
         'time_format' => 'h:i A',
         'dimension_unit' => 'cm',

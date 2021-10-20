@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '260',
     'name' => 'French Southern and Antarctic Lands',
     'official' => 'Territory of the French Southern and Antarctic Lands',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AN',
     'subregion' => '',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 262,
     'ethnicity' => 'French',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.tf',
@@ -31,18 +31,18 @@ return [
         'latitude' => '-49.25000000',
         'longitude' => '69.16700000',
         'is_landlocked' => false,
-        'borders' => NULL,
+        'borders' => null,
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
-        'dimension_unit' => NULL,
-        'weight_unit' => NULL,
-        'default_locale' => NULL,
+        'dimension_unit' => null,
+        'weight_unit' => null,
+        'default_locale' => null,
         'timezones' => [
             [
                 'tz_name' => 'Indian/Kerguelen',

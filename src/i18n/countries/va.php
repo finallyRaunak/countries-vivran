@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '336',
     'name' => 'Vatican City',
     'official' => 'Vatican City State',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Southern Europe',
     'capital' => [
@@ -21,7 +21,7 @@ return [
     ],
     'dialing_code' => 379,
     'ethnicity' => 'Vatican',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.va',
@@ -37,10 +37,10 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address' => null,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

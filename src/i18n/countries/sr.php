@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '740',
     'name' => 'Suriname',
     'official' => 'Republic of Suriname',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'SA',
     'subregion' => 'South America',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 597,
     'ethnicity' => 'Surinamer',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.sr',
@@ -44,9 +44,9 @@ return [
                 'hidden' => true,
             ],
         ],
-        'address_format' => NULL,
-        'date_format_string' => NULL,
-        'date_format' => NULL,
+        'address_format' => null,
+        'date_format_string' => null,
+        'date_format' => null,
         'time_format_string' => '24H',
         'time_format' => 'H:i',
         'dimension_unit' => 'cm',

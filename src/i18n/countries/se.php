@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '752',
     'name' => 'Sweden',
     'official' => 'Kingdom of Sweden',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Northern Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 46,
     'ethnicity' => 'Swedish',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.se',

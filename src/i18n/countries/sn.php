@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '686',
     'name' => 'Senegal',
     'official' => 'Republic of Senegal',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'AF',
     'subregion' => 'Western Africa',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 221,
     'ethnicity' => 'Senegalese',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.sn',
@@ -40,8 +40,8 @@ return [
         ],
     ],
     'locale' => [
-        'address' => NULL,
-        'address_format' => NULL,
+        'address' => null,
+        'address_format' => null,
         'date_format_string' => 'dd/mm/yyyy',
         'date_format' => 'd/m/Y',
         'time_format_string' => '24H',

@@ -6,7 +6,7 @@ return [
     'iso_code_num' => '688',
     'name' => 'Serbia',
     'official' => 'Republic of Serbia',
-    'native' => NULL,
+    'native' => null,
     'continent' => 'EU',
     'subregion' => 'Southeast Europe',
     'capital' => [
@@ -20,7 +20,7 @@ return [
     ],
     'dialing_code' => 381,
     'ethnicity' => 'Serbian',
-    'states' => NULL,
+    'states' => null,
     'additional_information' => [
         'tld' => [
             '.rs',
