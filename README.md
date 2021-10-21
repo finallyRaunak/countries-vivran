@@ -1,6 +1,10 @@
 # Countries Vivran
 
-Welcome to the Countries Vivran repository on GitHub. Countries Vivran is a composer package or library to get the countries details. Here you can browse the source, look at open issues and keep track of development.
+Welcome to the Countries Vivran repository on GitHub. Countries Vivran is a composer package or library to get all sorts of useful information about every country in ISO 3166 packaged as convenient little country objects. 
+
+It contains info for the following standards; **Countries**: ISO 3166-1 alpha-2 code (_with alpha-2 to alpha-3 set_), **States/Subdivisions**: ISO 3166-2, **Currency**: ISO 4217 and **Phone Dialing Code** : E.164. 
+
+I will add any country based data I can get access to. I hope this to be a repository for all country based information. Here you can browse the source, look at open issues and keep track of development.
 
 > **Important:**
 >
@@ -52,7 +56,10 @@ Countries Vivran is in an early or development stage, so there are lots of thing
 Countries Vivran package is a [Raunak Gupta](https://github.com/finallyRaunak) initiative.
 See also the list of [contributors](https://github.com/finallyRaunak/countries-vivran/contributors).
 
-## Credits
+## Credits / Source
+
+- WooCommerce
+- Wikipedia
 
 
 ## License
