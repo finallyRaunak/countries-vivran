@@ -94,4 +94,46 @@ trait utilityTrait
 
         return $countryData['name'];
     }
+
+    /**
+     * Format the postcode according to the country and length of the postcode.
+     *
+     * @param string $postcode Unformatted postcode.
+     * @param string $countryCode  Base country.
+     * @return string
+     */
+    public function formatPostcode($postcode, $countryCode)
+    {
+        $postcode = function_exists('mb_strtoupper') ? mb_strtoupper($postcode) : strtoupper($postcode);
+        $postcode = preg_replace('/[\s\-]/', '', trim($postcode));
+
+        switch ($countryCode) {
+            case 'CA':
+            case 'GB':
+                $postcode = substr_replace($postcode, ' ', -3, 0);
+                break;
+            case 'IE':
+                $postcode = substr_replace($postcode, ' ', 3, 0);
+                break;
+            case 'BR':
+            case 'PL':
+                $postcode = substr_replace($postcode, '-', -3, 0);
+                break;
+            case 'JP':
+                $postcode = substr_replace($postcode, '-', 3, 0);
+                break;
+            case 'PT':
+                $postcode = substr_replace($postcode, '-', 4, 0);
+                break;
+            case 'PR':
+            case 'US':
+                $postcode = rtrim(substr_replace($postcode, '-', 5, 0), '-');
+                break;
+            case 'NL':
+                $postcode = substr_replace($postcode, ' ', 4, 0);
+                break;
+        }
+
+        return trim($postcode);
+    }
 }
