@@ -77,5 +77,15 @@ return [
     'financial_institution_format' => [
     ],
     'national_identification_document' => [
+        [
+            'name' => 'Passport',
+            'type' => 'string',
+            'regex' => '/^[A-z][0-9]{6}$/',
+        ],
+        [
+            'name' => 'Driving License',
+            'type' => 'string',
+            'regex' => '/^[A-z]{2}-[0-9]{6} [0-9]$/',
+        ],
     ],
 ];

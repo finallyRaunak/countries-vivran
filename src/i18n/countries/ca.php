@@ -297,5 +297,10 @@ return [
     'financial_institution_format' => [
     ],
     'national_identification_document' => [
+        [
+            'name' => 'Passport',
+            'type' => 'string',
+            'regex' => '/[A-Za-z]{2}\d{6,7}/',
+        ],
     ],
 ];

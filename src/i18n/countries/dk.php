@@ -63,5 +63,10 @@ return [
     'financial_institution_format' => [
     ],
     'national_identification_document' => [
+        [
+            'name' => 'Driving License',
+            'type' => 'string',
+            'regex' => '/^[0-9]{8}$/',
+        ],
     ],
 ];

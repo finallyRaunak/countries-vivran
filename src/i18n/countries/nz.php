@@ -135,7 +135,31 @@ return [
         ],
     ],
     'financial_institution_format' => [
+        [
+            'name' => 'Bank Name',
+            'slug' => 'bank_name',
+            'type' => 'string',
+        ],
+        [
+            'name' => 'Account Number',
+            'slug' => 'account_number',
+            'type' => 'string',
+        ],
     ],
     'national_identification_document' => [
+        [
+            'name' => 'Passport',
+            'type' => 'string',
+            'length' => 10,
+            'masking' => '',
+            'regex' => '/[A-Z]{2}[0-9]{6}\D/',
+        ],
+        [
+            'name' => 'Driving Licence',
+            'type' => 'string',
+            'length' => 8,
+            'masking' => 'XXXXXXXX',
+            'regex' => '/^[A-Z]{2}[0-9]{6}$/',
+        ],
     ],
 ];

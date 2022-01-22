@@ -65,5 +65,10 @@ return [
     'financial_institution_format' => [
     ],
     'national_identification_document' => [
+        [
+            'name' => 'Driving License',
+            'type' => 'string',
+            'regex' => '/^[A-z]{3}[0-9]{6}$/',
+        ],
     ],
 ];

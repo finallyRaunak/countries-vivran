@@ -332,7 +332,53 @@ return [
         ],
     ],
     'financial_institution_format' => [
+        [
+            'name' => 'Bank Name',
+            'slug' => 'bank_name',
+            'type' => 'string',
+        ],
+        [
+            'name' => 'SWIFT',
+            'slug' => 'swift',
+            'type' => 'string',
+        ],
+        [
+            'name' => 'Account Number',
+            'slug' => 'account_number', //\d{8,17}
+            'type' => 'string',
+        ],
+        [
+            'name' => 'ABA',
+            'slug' => 'aba',
+            'type' => 'string',
+        ],
     ],
     'national_identification_document' => [
+        [
+            'name'=> 'SSN',
+            'type'=> 'number',
+            'min_len'=> 0,
+            'max_len'=> 0,
+            'masking'=> 'XXX-XX-XXXX',
+            'regex'=> '/^d{3}-?d{2}-?d{4}$/'
+        ],
+          [
+            'name'=> 'FEIN',
+            'type'=> 'number',
+            'length' => 7,
+            'masking'=> 'XX-XXXXXXX',
+            'regex'=> '/^[1-9]d?-d{7}$/'
+          ],
+          [
+            'name'=> 'Passport',
+            'type'=> 'string',
+            'length' => 9,
+            'regex'=> '/^\d{9}$/'
+          ],
+          [
+            'name'=> 'Driving License',
+            'type'=> 'string',
+            'regex'=> '/[A-Za-z]{1}[0-9]{7}/'
+          ]
     ],
 ];

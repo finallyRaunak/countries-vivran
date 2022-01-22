@@ -167,7 +167,48 @@ return [
         ],
     ],
     'financial_institution_format' => [
+        [
+            'name' => 'Bank Name',
+            'slug' => 'bank_name',
+            'type' => 'string',
+        ],
+        [
+            'name' => 'BSB',
+            'slug' => 'bsb',
+            'length' => 6,
+            'type' => 'number',
+        ],
+        [
+            'name' => 'Account Number',
+            'slug' => 'account_number',
+            'type' => 'number',
+        ],
     ],
     'national_identification_document' => [
+        [
+            'name' => 'Australian citizenship certificate',
+            'type' => 'string',
+            'masking' => '',
+            'regex' => '',
+        ],
+        [
+            'name' => 'Australian birth certificate',
+            'type' => 'string',
+            'length' => ,
+            'masking' => '',
+            'regex' => '',
+        ],
+        [
+            'name' => 'Passport',
+            'type' => 'string',
+            'masking' => '',
+            'regex' => '/[A-Za-z][A-Za-z0-9]{7}[^A-Za-z0-9]/',
+        ],
+        [
+            'name' => 'Driving licence',
+            'type' => 'string',
+            'masking' => '',
+            'regex' => '',
+        ],
     ],
 ];
