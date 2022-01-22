@@ -328,7 +328,7 @@ return [
                 'gmt_offset_name' => 'UTC-04:00',
                 'abbreviation' => 'EDT',
                 'official_name' => 'Eastern Daylight Time',
-            ]
+            ],
         ],
     ],
     'financial_institution_format' => [

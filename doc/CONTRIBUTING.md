@@ -25,7 +25,9 @@ git checkout -b bugfix/23/<description 1-3 word(s)>
 
 ## Get the test suite running
 
-_To be added later_.
+_To be added later_.  
+`./vendor/bin/php-cs-fixer fix -v --show-progress=dots`  
+`./vendor/bin/php-cs-fixer fix -v --dry-run --show-progress=dots`
 
 ## Implement your fix or feature
 

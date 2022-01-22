@@ -133,6 +133,7 @@ $rules = [
     'ordered_imports' => [
         'sort_algorithm' => 'alpha',
     ],
+    'no_unused_imports' => true,
 
     // php-cs-fixer 3: Removed rootless options (*)
     'no_unneeded_control_parentheses' => [
@@ -152,6 +153,7 @@ $finder = Finder::create()
         __DIR__ . '/src',
     ])
     ->name('*.php')
+//    ->notName('*.dist.php')
     ->ignoreDotFiles(true)
     ->ignoreVCS(true);
 

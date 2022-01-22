@@ -36,6 +36,11 @@ trait utilityTrait
         return !empty($addressFields) ? \array_replace_recursive($fields, $addressFields) : $fields;
     }
 
+    /**
+     * @param string $param
+     * @param string|enum $type it can be currency or language
+     * @return array|null
+     */
     public function getFullDetailsByType($param, $type = 'language')
     {
         if (empty($param)) {
@@ -47,7 +52,6 @@ trait utilityTrait
                 $fullArr = include $this->packageFilePath('i18n/currencies.php');
                 break;
             case 'language':
-
                 $fullArr = include $this->packageFilePath('i18n/languages.php');
                 break;
         }
