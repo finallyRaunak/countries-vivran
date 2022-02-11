@@ -7,6 +7,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'US'
     ],
     'EUR' => [
         'label'        => 'Euro',
@@ -14,6 +15,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'UK'
     ],
     'CAD' => [
         'label'        => 'Canadian dollar',
@@ -21,6 +23,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'CA'
     ],
     'AUD' => [
         'label'        => 'Australian dollar',
@@ -28,6 +31,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AU'
     ],
     'INR' => [
         'label'        => 'Indian rupee',
@@ -35,6 +39,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'IN'
     ],
     'MXN' => [
         'label'        => 'Mexican peso',
@@ -42,6 +47,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'MX'
     ],
     'AED' => [
         'label'        => 'United Arab Emirates dirham',
@@ -49,6 +55,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AE'
     ],
     'AFN' => [
         'label'        => 'Afghan afghani',
@@ -56,6 +63,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AF'
     ],
     'ALL' => [
         'label'        => 'Albanian lek',
@@ -63,6 +71,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AL'
     ],
     'AMD' => [
         'label'        => 'Armenian dram',
@@ -70,6 +79,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AM'
     ],
     'ANG' => [
         'label'        => 'Netherlands Antillean guilder',
@@ -77,6 +87,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'CW'
     ],
     'AOA' => [
         'label'        => 'Angolan kwanza',
@@ -84,6 +95,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AO'
     ],
     'ARS' => [
         'label'        => 'Argentine peso',
@@ -91,6 +103,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AR'
     ],
     'AWG' => [
         'label'        => 'Aruban florin',
@@ -98,6 +111,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AW'
     ],
     'AZN' => [
         'label'        => 'Azerbaijani manat',
@@ -105,6 +119,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'AZ'
     ],
     'BAM' => [
         'label'        => 'Bosnia and Herzegovina convertible mark',
@@ -112,6 +127,7 @@ return [
         'currency_pos' => 'right_space',
         'thousand_sep' => '.',
         'decimal_sep'  => ',',
+        'native_country'=> 'BA'
     ],
     'BBD' => [
         'label'        => 'Barbadian dollar',
@@ -119,6 +135,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'BB'
     ],
     'BDT' => [
         'label'        => 'Bangladeshi taka',
@@ -126,6 +143,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'BD'
     ],
     'BGN' => [
         'label'        => 'Bulgarian lev',
@@ -133,6 +151,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'BG'
     ],
     'BHD' => [
         'label'        => 'Bahraini dinar',
@@ -140,6 +159,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'BH'
     ],
     'BIF' => [
         'label'        => 'Burundian franc',
@@ -147,6 +167,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'BI'
     ],
     'BMD' => [
         'label'        => 'Bermudian dollar',
@@ -154,6 +175,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'BM'
     ],
     'BND' => [
         'label'        => 'Brunei dollar',
@@ -161,6 +183,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'BN'
     ],
     'BOB' => [
         'label'        => 'Bolivian boliviano',
@@ -168,6 +191,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'BRL' => [
         'label'        => 'Brazilian real',
@@ -175,6 +199,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => '.',
         'decimal_sep'  => ',',
+    'native_country'=> ''
     ],
     'BSD' => [
         'label'        => 'Bahamian dollar',
@@ -182,6 +207,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'BTC' => [
         'label'        => 'Bitcoin',
@@ -189,6 +215,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'BTN' => [
         'label'        => 'Bhutanese ngultrum',
@@ -196,6 +223,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'BWP' => [
         'label'        => 'Botswana pula',
@@ -203,6 +231,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'BYR' => [
         'label'        => 'Belarusian ruble (old)',
@@ -210,6 +239,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'BYN' => [
         'label'        => 'Belarusian ruble',
@@ -217,6 +247,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'BZD' => [
         'label'        => 'Belize dollar',
@@ -224,6 +255,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CDF' => [
         'label'        => 'Congolese franc',
@@ -231,6 +263,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CHF' => [
         'label'        => 'Swiss franc',
@@ -238,6 +271,7 @@ return [
         'currency_pos' => 'left_space',
         'thousand_sep' => '\'',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CLP' => [
         'label'        => 'Chilean peso',
@@ -245,6 +279,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CNY' => [
         'label'        => 'Chinese yuan',
@@ -252,6 +287,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'COP' => [
         'label'        => 'Colombian peso',
@@ -259,6 +295,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CRC' => [
         'label'        => 'Costa Rican col&oacute;n',
@@ -266,6 +303,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CUC' => [
         'label'        => 'Cuban convertible peso',
@@ -273,6 +311,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CUP' => [
         'label'        => 'Cuban peso',
@@ -280,6 +319,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CVE' => [
         'label'        => 'Cape Verdean escudo',
@@ -287,6 +327,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'CZK' => [
         'label'        => 'Czech koruna',
@@ -294,6 +335,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+    'native_country'=> ''
     ],
     'DJF' => [
         'label'        => 'Djiboutian franc',
@@ -1106,6 +1148,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> ''
     ],
     'XOF' => [
         'label'        => 'West African CFA franc',
@@ -1113,6 +1156,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> ''
     ],
     'XPF' => [
         'label'        => 'CFP franc',
@@ -1120,6 +1164,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'PF'
     ],
     'YER' => [
         'label'        => 'Yemeni rial',
@@ -1127,6 +1172,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> ''
     ],
     'ZAR' => [
         'label'        => 'South African rand',
@@ -1134,6 +1180,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> 'ZA'
     ],
     'ZMW' => [
         'label'        => 'Zambian kwacha',
@@ -1141,5 +1188,6 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep'  => '.',
+        'native_country'=> ''
     ],
 ];
