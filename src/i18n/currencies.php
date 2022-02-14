@@ -231,7 +231,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
-        'native_country' => '',
+        'native_country' => 'BW',
     ],
     'BYR' => [
         'label' => 'Belarusian ruble (old)',
@@ -239,7 +239,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
-        'native_country' => '',
+        'native_country' => 'BY',
     ],
     'BYN' => [
         'label' => 'Belarusian ruble',
@@ -271,7 +271,7 @@ return [
         'currency_pos' => 'left_space',
         'thousand_sep' => '\'',
         'decimal_sep' => '.',
-        'native_country' => '',
+        'native_country' => 'CH',
     ],
     'CLP' => [
         'label' => 'Chilean peso',
@@ -287,7 +287,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
-        'native_country' => '',
+        'native_country' => 'CN',
     ],
     'COP' => [
         'label' => 'Colombian peso',
@@ -351,6 +351,7 @@ return [
         'currency_pos' => 'left_space',
         'thousand_sep' => '.',
         'decimal_sep' => ',',
+        'native_country' => 'DK',
     ],
     'DOP' => [
         'label' => 'Dominican peso',
@@ -366,6 +367,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'DZ',
     ],
     'EGP' => [
         'label' => 'Egyptian pound',
@@ -373,6 +375,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'EG',
     ],
     'ERN' => [
         'label' => 'Eritrean nakfa',
@@ -412,6 +415,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'UK',
     ],
     'GEL' => [
         'label' => 'Georgian lari',
@@ -531,6 +535,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'IL',
     ],
     'IMP' => [
         'label' => 'Manx pound',
@@ -562,6 +567,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'IR',
     ],
     'ISK' => [
         'label' => 'Icelandic kr&oacute;na',
@@ -593,6 +599,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'JO',
     ],
     'JPY' => [
         'label' => 'Japanese yen',
@@ -600,6 +607,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'JP',
     ],
     'KES' => [
         'label' => 'Kenyan shilling',
@@ -727,6 +735,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'MA',
     ],
     'MDL' => [
         'label' => 'Moldovan leu',
@@ -782,6 +791,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'MR',
     ],
     'MUR' => [
         'label' => 'Mauritian rupee',
@@ -853,6 +863,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'NO',
     ],
     'NPR' => [
         'label' => 'Nepalese rupee',
@@ -868,6 +879,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'NZ',
     ],
     'OMR' => [
         'label' => 'Omani rial',
@@ -931,6 +943,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'MD',
     ],
     'PYG' => [
         'label' => 'Paraguayan guaran&iacute;',
@@ -1026,6 +1039,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'SG',
     ],
     'SHP' => [
         'label' => 'Saint Helena pound',
@@ -1033,6 +1047,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'SH',
     ],
     'SLL' => [
         'label' => 'Sierra Leonean leone',
@@ -1200,6 +1215,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'VE',
     ],
     'VES' => [
         'label' => 'Bol&iacute;var soberano',
@@ -1239,6 +1255,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
+        'native_country' => 'CM',
     ],
     'XCD' => [
         'label' => 'East Caribbean dollar',
@@ -1246,7 +1263,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
-        'native_country' => '',
+        'native_country' => 'AI',
     ],
     'XOF' => [
         'label' => 'West African CFA franc',
@@ -1254,7 +1271,7 @@ return [
         'currency_pos' => 'left',
         'thousand_sep' => ',',
         'decimal_sep' => '.',
-        'native_country' => '',
+        'native_country' => 'BJ',
     ],
     'XPF' => [
         'label' => 'CFP franc',
