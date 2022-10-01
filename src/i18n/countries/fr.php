@@ -20,7 +20,21 @@ return [
     ],
     'dialing_code' => 33,
     'ethnicity' => 'French',
-    'states' => null,
+    'states' => [
+        ["name" => "Auvergne-Rhône-Alpes", "iso_code" => "ARA"],
+        ["name" => "Bourgogne-Franche-Comté", "iso_code" => "BFC"],
+        ["name" => "Bretagne", "iso_code" => "BRE"],
+        ["name" => "Centre-Val de Loire", "iso_code" => "CVL"],
+        ["name" => "Corse", "iso_code" => "20R"],
+        ["name" => "Grand-Est", "iso_code" => "GES"],
+        ["name" => "Hauts-de-France", "iso_code" => "HDF"],
+        ["name" => "Île-de-France", "iso_code" => "IDF"],
+        ["name" => "Normandie", "iso_code" => "NOR"],
+        ["name" => "Nouvelle-Aquitaine", "iso_code" => "NAQ"],
+        ["name" => "Occitanie", "iso_code" => "OCC"],
+        ["name" => "Pays-de-la-Loire", "iso_code" => "PDL"],
+        ["name" => "Provence-Alpes-Côte-d'Azur", "iso_code" => "PAC"],
+    ],
     'additional_information' => [
         'tld' => [
             '.fr',
@@ -45,8 +59,8 @@ return [
     'locale' => [
         'address' => [
             'state' => [
-                'required' => false,
-                'hidden' => true,
+                'required' => true,
+                'hidden' => false,
             ],
         ],
         'address_format' => '{name}\n{address_1}\n{address_2}\n{postcode} {city_upper}\n{country}',
